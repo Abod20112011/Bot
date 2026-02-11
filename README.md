@@ -17,3 +17,4 @@ sᴜᴘᴘᴏʀᴛs ʙᴏᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏ
 [Come here](http://t.me/Tech_Division)
 ---
 
+python3 -m HackSessionBot
